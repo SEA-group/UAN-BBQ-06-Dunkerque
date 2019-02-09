@@ -1,1 +1,47 @@
-<FAS001_Loire130M_lod3.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>hull</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFireBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.113604 -0.212099 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>hull</node><geometry><vertices>hull_lodShape3.vertices</vertices><primitive>hull_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>PBS_Plane</identifier><mfm>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/b70664205e96f9eadd5120f458a5abeb.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.523981 0.005851 -0.456135</min><max>0.529562 0.253769 0.296390</max></boundingBox></FAS001_Loire130M_lod3.visual>
+<FAS001_Loire130M_lod3.visual>
+	<boundingBox>
+		<min>	-0.523981 0.005851 -0.456135	</min>
+		<max>	0.529562 0.253769 0.296390	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	hull	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFireBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.113604 -0.212099 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hull_lodShape3.vertices	</vertices>
+			<primitive>	hull_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FAS001_Loire130M_lod3.visual>

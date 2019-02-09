@@ -1,1 +1,8 @@
-<FGM007_330_52_Mle_1931_prem.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM007_330_52_Mle_1931_prem_lod1</parent><extent>3.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM007_330_52_Mle_1931_prem</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FGM007_330_52_Mle_1931_prem.model>
+<FGM007_330_52_Mle_1931_prem.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM007_330_52_Mle_1931_prem_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM007_330_52_Mle_1931_prem	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM007_330_52_Mle_1931_prem.model>

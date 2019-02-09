@@ -1,1 +1,9 @@
-<FSB001_Dunkerque_1940_MidBack.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_MidBack_lod1</parent><extent>8.0000</extent><castsShadow>true</castsShadow><materialNames /><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_MidBack</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FSB001_Dunkerque_1940_MidBack.model>
+<FSB001_Dunkerque_1940_MidBack.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_MidBack_lod1	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB001_Dunkerque_1940_MidBack.model>

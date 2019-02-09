@@ -1,1 +1,38 @@
-<FD001_OPL_12_metre_SRF_330mm.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>FD001_OPL_12_metre_SRF_330mm</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>FD001_OPL_12_metre_SRF_330mm</node><geometry><vertices>FD001_OPL_12_metre_SRF_330mmShape.vertices</vertices><primitive>FD001_OPL_12_metre_SRF_330mmShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/9796df67d42d9dc9c24a8a5a02fb6264.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.432991 -0.044117 -0.259276</min><max>0.432991 0.264120 0.224534</max></boundingBox></FD001_OPL_12_metre_SRF_330mm.visual>
+<FD001_OPL_12_metre_SRF_330mm.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	FD001_OPL_12_metre_SRF_330mm	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	FD001_OPL_12_metre_SRF_330mm	</node>
+		<geometry>
+			<vertices>	FD001_OPL_12_metre_SRF_330mmShape.vertices	</vertices>
+			<primitive>	FD001_OPL_12_metre_SRF_330mmShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD001_OPL_12_metre_SRF_330mm.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.432991 -0.044117 -0.259276	</min>
+		<max>	0.432991 0.264120 0.224534	</max>
+	</boundingBox>
+</FD001_OPL_12_metre_SRF_330mm.visual>

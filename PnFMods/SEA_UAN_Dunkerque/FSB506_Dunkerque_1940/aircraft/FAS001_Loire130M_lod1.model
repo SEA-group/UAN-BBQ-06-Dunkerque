@@ -1,1 +1,9 @@
-<FAS001_Loire130M_lod1.model><action><name>start</name><animation>CAA_aircraft_propeller_R</animation></action><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_lod2</parent><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_lod1</nodefullVisual><extent>20.0000</extent><materialNames /><animation><name>CAA_aircraft_propeller_R</name><frameRate>30.0000</frameRate><nodes>content/animation/common/CAA_aircraft_propeller_R</nodes><alpha><propeller_disk>0.0000</propeller_disk></alpha></animation><castsShadow>true</castsShadow><metaData>Wargaming | Lesta Studio</metaData></FAS001_Loire130M_lod1.model>
+<FAS001_Loire130M_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FAS001_Loire130M_lod1.model>

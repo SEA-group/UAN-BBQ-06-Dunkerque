@@ -1,1 +1,7 @@
-<FD005_SOM_5_metre_S_lod3.model><castsShadow>false</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD005_SOM_5_metre_S_lod3</nodefullVisual><extent>70.0000</extent><metaData>Wargaming | Lesta Studio</metaData></FD005_SOM_5_metre_S_lod3.model>
+<FD005_SOM_5_metre_S_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD005_SOM_5_metre_S_lod3	</nodefullVisual>
+	<extent>	70.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD005_SOM_5_metre_S_lod3.model>

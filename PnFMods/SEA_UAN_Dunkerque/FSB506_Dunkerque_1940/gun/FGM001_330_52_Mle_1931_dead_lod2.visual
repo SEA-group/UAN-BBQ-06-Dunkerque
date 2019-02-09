@@ -1,1 +1,38 @@
-<FGM001_330_52_Mle_1931_dead_lod2.visual><boundingBox><min>-0.421858 -0.048499 -0.556183</min><max>0.421858 0.211693 1.019684</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>FGM001_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>FGM001_dead</node><geometry><vertices>FGM001_dead_lod2Shape.vertices</vertices><primitive>FGM001_dead_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/45243695b98352f27a5a4a5a58eacebf.mfm</mfm></material></primitiveGroup></geometry></renderSet></FGM001_330_52_Mle_1931_dead_lod2.visual>
+<FGM001_330_52_Mle_1931_dead_lod2.visual>
+	<boundingBox>
+		<min>	-0.421858 -0.048499 -0.556183	</min>
+		<max>	0.421858 0.211693 1.019684	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	FGM001_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	FGM001_dead	</node>
+		<geometry>
+			<vertices>	FGM001_dead_lod2Shape.vertices	</vertices>
+			<primitive>	FGM001_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FGM001_330_52_Mle_1931_dead_lod2.visual>

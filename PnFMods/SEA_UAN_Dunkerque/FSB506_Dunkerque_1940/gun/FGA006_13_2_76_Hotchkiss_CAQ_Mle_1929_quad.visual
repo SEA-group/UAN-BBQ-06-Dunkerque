@@ -1,1 +1,56 @@
-<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual><boundingBox><min>-0.061023 0.000000 -0.043810</min><max>0.061019 0.101163 0.062547</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Hotchkiss_CAQ_Mle_1929_quad</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.000000 0.093758 0.051466 1.000000</row3></transform></node><node><identifier>HP_gunFireEffect</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.000000 0.093758 0.051466 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Hotchkiss_CAQ_Mle_1929_quad</node><geometry><vertices>Hotchkiss_CAQ_Mle_1929_quadShape.vertices</vertices><primitive>Hotchkiss_CAQ_Mle_1929_quadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Gun</identifier><mfm>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/0a3cbee46111e27ac3601b08bb32d41d.mfm</mfm></material></primitiveGroup></geometry></renderSet></FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual>
+<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual>
+	<boundingBox>
+		<min>	-0.061023 0.000000 -0.043810	</min>
+		<max>	0.061019 0.101163 0.062547	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Hotchkiss_CAQ_Mle_1929_quad	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.093758 0.051466 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Hotchkiss_CAQ_Mle_1929_quad	</node>
+		<geometry>
+			<vertices>	Hotchkiss_CAQ_Mle_1929_quadShape.vertices	</vertices>
+			<primitive>	Hotchkiss_CAQ_Mle_1929_quadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.visual>

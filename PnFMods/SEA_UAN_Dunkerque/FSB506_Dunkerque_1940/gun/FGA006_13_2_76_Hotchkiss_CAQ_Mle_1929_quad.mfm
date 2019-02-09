@@ -1,0 +1,20 @@
+<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/default_ao.tga	</Texture>
+	</property>
+</FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad.mfm>

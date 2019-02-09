@@ -1,1 +1,8 @@
-<FGM001_330_52_Mle_1931_dead_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead_lod2</parent><extent>6.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FGM001_330_52_Mle_1931_dead_lod1.model>
+<FGM001_330_52_Mle_1931_dead_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead_lod2	</parent>
+	<extent>	6.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM001_330_52_Mle_1931_dead_lod1.model>

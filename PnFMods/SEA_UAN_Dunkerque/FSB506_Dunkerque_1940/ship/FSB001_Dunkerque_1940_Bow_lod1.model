@@ -1,1 +1,8 @@
-<FSB001_Dunkerque_1940_Bow_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_Bow_lod2</parent><extent>20.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_Bow_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FSB001_Dunkerque_1940_Bow_lod1.model>
+<FSB001_Dunkerque_1940_Bow_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_Bow_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_Bow_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB001_Dunkerque_1940_Bow_lod1.model>

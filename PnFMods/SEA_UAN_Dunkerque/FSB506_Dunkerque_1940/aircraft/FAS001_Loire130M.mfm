@@ -1,0 +1,17 @@
+<FAS001_Loire130M.mfm>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_a.dds	</Texture>
+	</property>
+</FAS001_Loire130M.mfm>

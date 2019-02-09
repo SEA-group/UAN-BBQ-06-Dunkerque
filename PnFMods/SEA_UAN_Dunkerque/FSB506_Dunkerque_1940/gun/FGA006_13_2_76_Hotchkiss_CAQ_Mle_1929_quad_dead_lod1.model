@@ -1,1 +1,9 @@
-<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod2</parent><extent>5.0000</extent><castsShadow>false</castsShadow><materialNames /><nodefullVisual>PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1.model>
+<FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod2	</parent>
+	<extent>	5.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad_dead_lod1.model>
