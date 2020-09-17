@@ -1,6 +1,6 @@
 <FAS001_Loire130M.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/FAS001_Loire130M_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/lods/FAS001_Loire130M_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

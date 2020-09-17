@@ -1,0 +1,8 @@
+<FD002_OPL_8_metre_SRF_330mm_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/lods/FD002_OPL_8_metre_SRF_330mm_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/lods/FD002_OPL_8_metre_SRF_330mm_lod1	</nodefullVisual>
+	<extent>	12.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD002_OPL_8_metre_SRF_330mm_lod1.model>

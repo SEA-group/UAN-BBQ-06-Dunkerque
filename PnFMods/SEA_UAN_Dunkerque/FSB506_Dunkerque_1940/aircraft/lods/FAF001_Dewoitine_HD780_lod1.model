@@ -1,0 +1,9 @@
+<FAF001_Dewoitine_HD780_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/lods/FAF001_Dewoitine_HD780_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/aircraft/lods/FAF001_Dewoitine_HD780_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FAF001_Dewoitine_HD780_lod1.model>

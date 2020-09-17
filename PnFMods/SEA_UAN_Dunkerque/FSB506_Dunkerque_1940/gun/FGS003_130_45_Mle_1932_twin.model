@@ -1,6 +1,6 @@
 <FGS003_130_45_Mle_1932_twin.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGS003_130_45_Mle_1932_twin_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/lods/FGS003_130_45_Mle_1932_twin_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGS003_130_45_Mle_1932_twin	</nodefullVisual>

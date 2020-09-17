@@ -1,7 +1,7 @@
 <FD006_SOM_3_metre_S.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD006_SOM_3_metre_S_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/lods/FD006_SOM_3_metre_S_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD006_SOM_3_metre_S	</nodefullVisual>
 	<materialNames />

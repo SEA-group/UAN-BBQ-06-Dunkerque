@@ -1,6 +1,6 @@
 <FGM001_330_52_Mle_1931_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/lods/FGM001_330_52_Mle_1931_dead_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

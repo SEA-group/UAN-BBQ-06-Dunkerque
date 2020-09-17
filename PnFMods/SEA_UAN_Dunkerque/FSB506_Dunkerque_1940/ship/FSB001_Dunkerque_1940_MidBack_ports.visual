@@ -304,24 +304,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FM006_2m_Rangefinder	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.3072 0.8455 -2.1554 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FM006_2m_Rangefinder_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.3072 0.8455 -2.1554 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_FM009_Range_Concentration_Dials	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
