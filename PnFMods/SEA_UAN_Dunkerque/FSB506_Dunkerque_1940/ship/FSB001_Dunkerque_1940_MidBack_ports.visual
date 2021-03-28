@@ -156,7 +156,43 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4077 -1.9755 1.0000	</row3>
+					<row3>	0.0000 0.9685 -3.1763 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_1	</identifier>
+				<transform>
+					<row0>	0.9981 0.0000 -0.0623 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0623 0.0000 0.9981 0.0000	</row2>
+					<row3>	0.3318 0.8459 -2.9422 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_3_side_2	</identifier>
+				<transform>
+					<row0>	0.9981 0.0000 0.0623 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.0623 0.0000 0.9981 0.0000	</row2>
+					<row3>	-0.6014 0.5162 -4.2671 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_5	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1368 0.7289 -1.1718 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_5_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1368 0.8436 -1.8114 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -223,12 +259,21 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_FX_RepairLight_right_2	</identifier>
+				<transform>
+					<row0>	-0.1316 0.0000 -0.9913 0.0000	</row0>
+					<row1>	-0.0069 1.0000 0.0009 0.0000	</row1>
+					<row2>	0.9913 0.0070 -0.1316 0.0000	</row2>
+					<row3>	0.6919 0.3614 -4.7924 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_FX_Smoke_1	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.5670 -1.5623 1.0000	</row3>
+					<row1>	0.0000 0.9947 -0.1030 0.0000	</row1>
+					<row2>	0.0000 0.1030 0.9947 0.0000	</row2>
+					<row3>	0.0000 1.5362 -1.5642 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

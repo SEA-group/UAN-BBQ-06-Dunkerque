@@ -34,6 +34,15 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_FX_RepairLight_left_2	</identifier>
+				<transform>
+					<row0>	-0.1473 0.0000 0.9891 0.0000	</row0>
+					<row1>	-0.0555 0.9984 -0.0083 0.0000	</row1>
+					<row2>	-0.9875 -0.0561 -0.1471 0.0000	</row2>
+					<row3>	-0.5961 0.3617 -5.4435 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_FX_WakeTraceBack	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
