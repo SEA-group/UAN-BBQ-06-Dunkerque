@@ -29,7 +29,7 @@
 			<primitive>	FD003_OPL_6_metre_SRF_130mm_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/director/FD003_OPL_6_metre_SRF_130mm.mfm	</mfm>
 				</material>
 			</primitiveGroup>

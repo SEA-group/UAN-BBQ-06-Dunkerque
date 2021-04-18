@@ -148,7 +148,7 @@
 			<primitive>	FGM001_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM007_330_52_Mle_1931_prem_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

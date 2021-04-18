@@ -156,7 +156,7 @@
 			<primitive>	Catapult_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/catapult/FC001_Catapult_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -170,7 +170,7 @@
 			<primitive>	Cradle_1_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/catapult/FC001_Catapult_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -184,7 +184,7 @@
 			<primitive>	Cradle_2_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/catapult/FC001_Catapult_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -29,7 +29,7 @@
 			<primitive>	FGM001_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Dunkerque/FSB506_Dunkerque_1940/gun/FGM001_330_52_Mle_1931_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
